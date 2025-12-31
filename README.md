@@ -9,6 +9,9 @@
 </p>
 
 <hr>
+<h2>Documentation </h2>
+<P>https://documenter.getpostman.com/view/50630813/2sBXVbJa4U</P>
+<hr>
 
 <h2>📌 Objective</h2>
 <p>To automate and validate the following API scenarios on <strong>Reqres</strong>:</p>
